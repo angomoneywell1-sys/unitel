@@ -1,0 +1,7 @@
+{
+  "name": "Unitel Next - Modern Telecom Experience",
+  "description": "Uma versão moderna e reimaginada do portal Unitel, integrando IA para suporte personalizado e uma interface de usuário fluida.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
